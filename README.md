@@ -14,3 +14,4 @@ In this project there is only one categorical  column and all others are numeric
 Feature selection is done using SelectKBest Method.Based on the feature score out of 16 features only 15 are selected
 **Model Building**
 In this project 5 training models were used for performance evaluation. The models are:Logistic Regression,Support Vector Classifier,Decision Tree Classifier,Random Forest,Gradient Boosting
+After Model Evaluation using metrics such as Accuracy, Precision, Recall, and F1 Score, the Support Vector Classifier emerged as the best-performing model based on its highest accuracy score.
