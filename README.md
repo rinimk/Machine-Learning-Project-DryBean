@@ -15,3 +15,7 @@ Feature selection is done using SelectKBest Method.Based on the feature score ou
 **Model Building**
 In this project 5 training models were used for performance evaluation. The models are:Logistic Regression,Support Vector Classifier,Decision Tree Classifier,Random Forest,Gradient Boosting
 After Model Evaluation using metrics such as Accuracy, Precision, Recall, and F1 Score, the Support Vector Classifier emerged as the best-performing model based on its highest accuracy score.
+Further analysis was conducted on the Gradient Boosting Classifier to generate:
+
+Classification Report: A detailed breakdown of the model’s performance for each class, including metrics like precision, recall, and F1 score. 
+Hyperparameter tuning is used to improve model performance. 
