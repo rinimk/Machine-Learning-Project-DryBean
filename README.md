@@ -6,7 +6,7 @@ Multiclass classification of dry beans using the features such as form, shape, t
 
 Main objective is to perform exploratory data analysis (EDA) to understand the dataset. Train and evaluate classification models to classify seeds to 7 different categories. Interpret the results and assess feature importance.
 
-This analysis focuses on the Drybean dataset, where the class variable is the target.
+This analysis focuses on the Drybean dataset, where the 'class' is the target variable.
 
 **Dataset Information**
 
