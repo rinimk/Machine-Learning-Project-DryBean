@@ -14,12 +14,7 @@ Seven different types of dry beans were used in this research, taking into accou
 
 **Class Labels**
 
-Seker, Barbunya, Bombay, Cali, Derman, Horoz and Sira
-There are no missing values and duplicates in the dataset
-Outliers in  numerical features  are detected using the (IQR) method. Outliers are handled by capping based on lower and upper bounds
-5 types of visualiztions  are done to explore relation between features
-In this project there is only one categorical  column and all others are numerical.The only categorical column is 'Class' and that is the target varible in this project.Using label encoding it is encoded.The 7 types of classes are encoded to 0,1,2,3,4,5,6
-Feature selection is done using SelectKBest Method.Based on the feature score out of 16 features only 15 are selected
+Seker, Barbunya, Bombay, Cali, Derman, Horoz and Sira.There are no missing values and duplicates in the dataset.Outliers in  numerical features  are detected using the (IQR) method. Outliers are handled by capping based on lower and upper bounds.5 types of visualiztions  are done to explore relation between features.In this project there is only one categorical  column and all others are numerical.The only categorical column is 'Class' and that is the target varible in this project.Using label encoding it is encoded.The 7 types of classes are encoded to 0,1,2,3,4,5,6.Feature selection is done using SelectKBest Method.Based on the feature score out of 16 features only 15 are selected
 
 **Model Building**
 
