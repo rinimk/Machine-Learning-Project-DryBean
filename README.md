@@ -1,4 +1,5 @@
-**DRY BEANS**
+**DRY BEANS-Machine Learning Classification Project**
+
 Dry bean is one of the highest-produced crops in the world, Dry Bean faces an extreme genetic diverse species in their crops. The quality of the seed is influencing in production of crops. Consequently, the classification of the seeds has become the need of the hour for production as well as marketing in order to avail the agricultural principles of sustainable systems. This research aims to develop a method which helps to obtain even varieties of seeds from the production of crops.
 
 Multiclass classification of dry beans using the features such as form, shape, type, and structure by the market situation.To distinguish seven different registered varieties of dry beans with similar features in order to obtain uniform seed classification.
